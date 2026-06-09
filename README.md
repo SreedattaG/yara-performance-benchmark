@@ -1,6 +1,6 @@
 # YARA Benchmark
 
-Code for the paper *"Evaluating computational efficiency in YARA: regex vs hexadecimal string matching performance"*.
+Code for the paper *"Evaluating computational efficiency in YARA: regex vs hexadecimal string-matching performance"*.
 
 ---
 
